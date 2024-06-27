@@ -10,6 +10,7 @@ public class Encapsulation1 {
 	public void getDetails() {
 		System.out.println("Roll No is "+rollNo);
 		System.out.println("name is "+name);
+		Sysout.out.println("successfull);
 	}
 }
 
