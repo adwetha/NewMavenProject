@@ -1,6 +1,6 @@
 package Package;
 
-public class SingleB extens SingleA{
+public class SingleB extends SingleA{
 public void runB() {
 	  System.out.println("child class");
   }
